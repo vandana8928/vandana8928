@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Vandana yadav
-- 👀 I’m interested in data scientist job
+- 👋 Hi, I’m Vandana Yadav
+- 👀 I’m interested in Data Science job
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on youtube
 - 📫 How to reach me https://www.linkedin.com/in/vandana-yadav-233a70231/
